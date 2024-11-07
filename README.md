@@ -1,2 +1,0 @@
-# DSAulas
-Repositório de ds
